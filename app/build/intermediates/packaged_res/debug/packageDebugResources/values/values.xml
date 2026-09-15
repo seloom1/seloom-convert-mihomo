@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#00BEFF</color>
+    <color name="bg">#060B14</color>
+    <color name="card">#0E1726</color>
+    <color name="text">#FFFFFF</color>
+    <style name="Theme.V2RayToClash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#10131A</item>
+        <item name="android:navigationBarColor">#10131A</item>
+    </style>
+</resources>
